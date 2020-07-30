@@ -1,2 +1,2 @@
 # DataAnalysis
-Projects related to data analysis
+Notebooks related to data analysis and predictive analytics.
